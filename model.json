@@ -23,6 +23,7 @@
           "ja": "グローバル言語 0.1B v1 中国語強化"
         },
         "size": 385594610,
+        "SHA256": "457ac64d32479d52ce021f0e64818fd67232344133fc821dcfd84023ac78f930",
         "url": "https://huggingface.co/Synthia/ChatGalRWKV/blob/main/rwkv-raven7bv10x-lora-0426-v2-4096-epoch13.pth",
         "downloadUrl": "https://huggingface.co/Synthia/ChatGalRWKV/blob/main/rwkv-raven7bv10x-lora-0426-v2-4096-epoch13.pth"
       },
